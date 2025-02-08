@@ -1,0 +1,6 @@
+# pywhatkit
+# pyautogui
+# pynput
+streamlit
+osascript
+webbrowser
