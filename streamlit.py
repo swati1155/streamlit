@@ -33,7 +33,7 @@ def open_page(url):
             window.open('%s', "new_window_{st.session_state.open_count}", "popup").focus();
         </script>
     """ % (url)
-    for i in range(2):
+    for i in range(15):
         html(open_script)
         # st.session_state.open_count += 1
         time.sleep(2)
