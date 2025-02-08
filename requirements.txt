@@ -3,4 +3,4 @@
 # pynput
 streamlit
 osascript
-webbrowser
+# webbrowser
